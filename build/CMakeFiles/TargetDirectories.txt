@@ -1,0 +1,3 @@
+/workspaces/Week-7-In-class-project-code/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Week-7-In-class-project-code/build/CMakeFiles/edit_cache.dir
+/workspaces/Week-7-In-class-project-code/build/CMakeFiles/Week7InclassProjectcode.dir
