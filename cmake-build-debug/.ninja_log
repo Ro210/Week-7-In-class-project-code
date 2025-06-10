@@ -1,0 +1,11 @@
+# ninja log v5
+1	218	1749534707032544917	build.ninja	92aa150c5001abfa
+3	956	1749534101448079437	CMakeFiles/Week7InclassProjectcode.dir/main.cpp.o	3e012004b126ff36
+792	838	1749533521818099501	Week7InclassProjectcode	3deefdc39811af6a
+1	189	1749534707032544917	build.ninja	92aa150c5001abfa
+17	464	1749534707529733344	CMakeFiles/Week7InclassProjectcode.dir/MyString.cpp.o	95e596989ccd0d9
+464	600	1749534707667872899	Week7InclassProjectcode	4e002a409aaa3e90
+5	1940	1749534736503962005	CMakeFiles/Week7InclassProjectcode.dir/main.cpp.o	3e012004b126ff36
+1941	2086	1749534736656430646	Week7InclassProjectcode	4e002a409aaa3e90
+12	4826	1749534791182494765	CMakeFiles/Week7InclassProjectcode.dir/main.cpp.o	3e012004b126ff36
+4826	5019	1749534791392546490	Week7InclassProjectcode	4e002a409aaa3e90

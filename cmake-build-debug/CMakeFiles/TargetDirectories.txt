@@ -1,0 +1,3 @@
+/Users/robelarega/CLionProjects/characteroperations/Week7InclassProjectcode/cmake-build-debug/CMakeFiles/Week7InclassProjectcode.dir
+/Users/robelarega/CLionProjects/characteroperations/Week7InclassProjectcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robelarega/CLionProjects/characteroperations/Week7InclassProjectcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
